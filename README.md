@@ -3,6 +3,7 @@ LTTng-tools
 
 [![Jenkins](https://img.shields.io/jenkins/s/https/ci.lttng.org/lttng-tools_master_build.svg)](https://ci.lttng.org/job/lttng-tools_master_build/)
 [![Coverity](https://img.shields.io/coverity/scan/lttng-tools.svg)](https://scan.coverity.com/projects/lttng-tools)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fraymdh%2Flttng-tools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fraymdh%2Flttng-tools?ref=badge_shield)
 
 LTTng-tools is a set of tools to control [LTTng](https://lttng.org/)
 tracing. The project includes the LTTng session daemon, consumer daemon
@@ -177,3 +178,7 @@ This package contains the following elements:
   - `src/lib`: source code of LTTng-tools libraries.
     - `lttng-ctl`: LTTng control library.
   - `tests`: various test programs.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fraymdh%2Flttng-tools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fraymdh%2Flttng-tools?ref=badge_large)
